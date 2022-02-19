@@ -1,12 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header)
-## 👋Hi there!
+![header](https://capsule-render.vercel.app/api?type=slice&color=3AA88E&height=60&section=header) </br>
+### 👋Hi there!</br>
 <p>
   <a href="http://corhythm.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:dnr2144@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dnr2144@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### 🏂 Skills
+![su kang's github stats](https://github-readme-stats.vercel.app/api?username=corhythm&show_icons=true&theme=github_dark)
 
+### 🏂 Skills
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -23,4 +24,5 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=40&section=footer)
+</br></br>
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDD98&height=40&section=footer)
