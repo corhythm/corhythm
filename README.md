@@ -1,11 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=3AA88E&height=60&section=header) </br>
 ### 👋Hi there!</br>
+![su kang's github stats](https://github-readme-stats.vercel.app/api?username=corhythm&show_icons=true&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corhythm&layout=compact)](https://github.com/corhythm/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=corhythm&theme=onedark)](https://github.com/corhythm/github-profile-trophy)
+
 <p>
   <a href="http://corhythm.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:dnr2144@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dnr2144@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
-![su kang's github stats](https://github-readme-stats.vercel.app/api?username=corhythm&show_icons=true&theme=github_dark)
 
 ### 🏂 Skills
 <p>
