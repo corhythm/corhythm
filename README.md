@@ -1,5 +1,5 @@
-## 👋&nbsp; Hi there! 
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header)
+## 👋Hi there!
 <p>
   <a href="http://corhythm.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:dnr2144@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dnr2144@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -21,3 +21,6 @@
   <img src="https://img.shields.io/badge/MARIADB-4479A1?style=flat-square&logo=MARIADB&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
 </p>
+
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=40&section=footer)
