@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=3AA88E&height=60&section=header) </br>
 ### 👋Hi there!</br>
-![su kang's github stats](https://github-readme-stats.vercel.app/api?username=corhythm&show_icons=true&theme=github_dark)
-
+![su kang's github stats](https://github-readme-stats.vercel.app/api?username=corhythm&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corhythm&layout=compact)](https://github.com/corhythm/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=corhythm&theme=onedark)](https://github.com/corhythm/github-profile-trophy)
