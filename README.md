@@ -5,7 +5,7 @@
 
 ![su kang's github stats](https://github-readme-stats.vercel.app/api?username=corhythm&show_icons=true&theme=radical) 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=corhythm&theme=onedark)](https://github.com/corhythm/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=corhythm&theme=onedark)](https://github.com/corhythm/github-profile-trophy) -->
 
 <p>
   <a href="http://corhythm.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
