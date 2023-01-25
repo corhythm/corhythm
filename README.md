@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=3AA88E&height=60&section=header) 
+<!-- ![header](https://capsule-render.vercel.app/api?type=slice&color=3AA88E&height=60&section=header)  -->
 
-### 👋SUK🖖</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corhythm&layout=compact)](https://github.com/corhythm/github-readme-stats)
+### 👋Hi there🖖
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corhythm&layout=compact)](https://github.com/corhythm/github-readme-stats) -->
 
 ![su kang's github stats](https://github-readme-stats.vercel.app/api?username=corhythm&show_icons=true&theme=radical) 
 
@@ -31,5 +31,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
 </p>  -->
 
-</br></br>
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDD98&height=40&section=footer)
+<!-- </br></br> -->
+<!-- ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDD98&height=40&section=footer) -->
